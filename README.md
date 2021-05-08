@@ -1,2 +1,2 @@
-# Produção Textual individual 
+# P. Textual individual 
  # Calculadora Flex.
