@@ -1,6 +1,8 @@
-## Exercicios do curso de ADS ###
+## Exércicio do curso de ADS Senac ###
 
- # Calculadora Flex.
+ # Calculadora Flex. 
+ 
+....Projeto do Professor Jose de Assis...
 
 Qual combustivel abastecer hoje?
 
